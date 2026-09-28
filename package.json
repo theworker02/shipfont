@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shipfont",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ship list/font set operations for shell-friendly data wrangling.",
+  "bin": {
+    "shipfont": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shipfont.git"
+  },
+  "homepage": "https://theworker02.github.io/shipfont/",
+  "keywords": [
+    "ship",
+    "font",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
